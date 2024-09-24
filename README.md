@@ -20,3 +20,10 @@ Labs: (Using Amazon Sagemaker)
 Reference Papers 
 - my summary (https://www.notion.so/Papers-Reading-Summary-57ea2e1a6e2e46129da9ec0e51308623?pvs=4)
 
+# A LLM project - Prof. Buguta (AI tutor) - a customized prompt using GPT4.0 (inspired by Mr. Ranedeer)
+
+Prof. Buguta capabities:
+- Create a curriculum for the student (/plan <topic>)
+- Start a lesson (/start <lesson>)
+- Create practice tests (/test)
+- Continue lesson (/continue)
